@@ -1,4 +1,0 @@
-yesvim
-======
-
-setting of vim
